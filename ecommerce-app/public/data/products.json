@@ -1,0 +1,73 @@
+[
+    {
+      "id": "P001",
+      "name": "Product 1",
+      "price": 19.99,
+      "quantityInStock": 50,
+      "image": "images/acc.jpg"
+    },
+    {
+      "id": "P002",
+      "name": "Product 2",
+      "price": 29.99,
+      "quantityInStock": 30,
+      "image": "images/camera.jpg"
+    },
+    {
+      "id": "P003",
+      "name": "Product 3",
+      "price": 14.99,
+      "quantityInStock": 20,
+      "image": "images/headphone.jpg"
+    },
+    {
+      "id": "P004",
+      "name": "Product 4",
+      "price": 24.99,
+      "quantityInStock": 45,
+      "image": "images/homeapp.jpg"
+    },
+    {
+      "id": "P005",
+      "name": "Product 5",
+      "price": 39.99,
+      "quantityInStock": 15,
+      "image": "images/laptop.jpg"
+    },
+    {
+      "id": "P006",
+      "name": "Product 6",
+      "price": 49.99,
+      "quantityInStock": 25,
+      "image": "images/speaker.jpg"
+    },
+    {
+      "id": "P007",
+      "name": "Product 7",
+      "price": 59.99,
+      "quantityInStock": 10,
+      "image": "images/tab.jpg"
+    },
+    {
+      "id": "P008",
+      "name": "Product 8",
+      "price": 34.99,
+      "quantityInStock": 40,
+      "image": "images/tv.jpg"
+    },
+    {
+      "id": "P009",
+      "name": "Product 9",
+      "price": 44.99,
+      "quantityInStock": 35,
+      "image": "images/watch.jpg"
+    },
+    {
+      "id": "P010",
+      "name": "Product 10",
+      "price": 54.99,
+      "quantityInStock": 18,
+      "image": "images/tab3.jpg"
+       }
+  ]
+  
