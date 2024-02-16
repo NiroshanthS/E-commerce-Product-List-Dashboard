@@ -15,7 +15,7 @@ const ProductList = () => {
   const [products, setProducts] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
   const [totalProducts, setTotalProducts]=useState(0);
-  const productsPerPage = 10;
+  const productsPerPage = 12;
 
   useEffect(() => {
     // Fetching products from the JSON file
@@ -38,6 +38,7 @@ const ProductList = () => {
 
   return (
     <>
+    <div className="product-list-container">
       <div className="store-wrapper home-wrapper-2 py-5 container-fluid">
         <div className="container-xxl">
           <div className="row">
@@ -225,6 +226,7 @@ const ProductList = () => {
           </div>
         </div>
       </div>
+    </div>
     </>
   );
 };

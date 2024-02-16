@@ -68,6 +68,20 @@
       "price": 54.99,
       "quantityInStock": 18,
       "image": "images/tab3.jpg"
-       }
+    },
+    {
+      "id": "P011",
+      "name": "Product 11",
+      "price": 44.99,
+      "quantityInStock": 40,
+      "image": "images/tv.jpg"
+    },
+    {
+      "id": "P012",
+      "name": "Product 12",
+      "price": 49.99,
+      "quantityInStock": 18,
+      "image": "images/laptop.jpg"
+    }
   ]
   
